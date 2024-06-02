@@ -1,0 +1,60 @@
+{
+  "product": "United States Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Independence Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-07-04T12:00:00",
+      "endDate": "2025-07-04T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the Declaration of Independence"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-09-01T12:00:00",
+      "endDate": "2025-09-01T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2025",
+      "style": "yellow",
+      "description": "Celebration of the American labor movement"
+    },
+    {
+      "title": "Thanksgiving Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-27T12:00:00",
+      "endDate": "2025-11-27T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2025",
+      "style": "orange",
+      "description": "Celebration of giving thanks for the harvest and blessings of the past year"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of the birth of Jesus Christ"
+    }
+  ]
+}
